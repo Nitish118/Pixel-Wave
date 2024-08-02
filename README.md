@@ -1,4 +1,4 @@
-# Pixel Wave 🌊
+# Pixel Wave 
 
 Pixel Wave is a simple image search tool that allows users to search for any images using the Unsplash API. This project was created to improve my skills in API handling, async/await functionalities in JavaScript, and responsive design.
 
