@@ -18,4 +18,4 @@ Pixel Wave is a simple image search tool that allows users to search for any ima
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/pixel-wave.git
+   git clone https://github.com/Nitish118/Pixel-Wave.git
